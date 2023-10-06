@@ -1,5 +1,5 @@
 <header>
-Testing
+title: Testing
 
 <!--
   <<< Author notes: Course header >>>
